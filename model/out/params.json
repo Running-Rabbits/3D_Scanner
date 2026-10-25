@@ -1,0 +1,46 @@
+{
+  "tt_axis_h": 0.1,
+  "tt_orbit_r": 0.058,
+  "tt_d1_r": 0.0875,
+  "tt_d2_r": 0.085,
+  "wood_t": 0.0025,
+  "cup_top_d": 0.075,
+  "cup_bot_d": 0.055,
+  "cup_h": 0.09,
+  "cup_rear_x": 0.016,
+  "tag_size": 0.032,
+  "omega_deg_s": 20.0,
+  "anim_seconds": 18.0,
+  "flange_d": 0.06,
+  "tur_base_r": 0.11,
+  "tur_caster_r_pos": 0.072,
+  "tur_caster_h": 0.017,
+  "tur_mid_r": 0.09,
+  "tur_flange_d": 0.06,
+  "tur_upright_y": 0.024,
+  "tur_cam_h": 0.178,
+  "tt_scene_pos": [
+    -0.45,
+    0.0,
+    0.0
+  ],
+  "units": "meters",
+  "axes": "Z-up, +X = turret aiming direction",
+  "turntable_rotation": {
+    "axis": "+X (toward turret)",
+    "omega_deg_s": 20.0,
+    "direction": "right-hand about +X (可翻转)",
+    "animation": "541 frames @ 30fps, linear"
+  },
+  "cup_tag": {
+    "faces": "+X (toward turret)",
+    "size_m": 0.032,
+    "note": "视觉占位图案，正式仿真请替换为 tag36h11 id1/2/3 图片"
+  },
+  "turret_camera": {
+    "lens_axis": "+X",
+    "height_m": 0.178
+  },
+  "scene_layout_status": "turntable position = map estimate, pending A3 measurement",
+  "precision_notes": "精确: 杯φ75/法兰60/钢珠轮17/转速20°/s/地图1200x600; 估算: 木板外形/R/H/炮台各件"
+}
