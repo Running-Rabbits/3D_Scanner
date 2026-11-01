@@ -1,0 +1,8 @@
+﻿{
+    "run_id":  "20261101T004052Z",
+    "created_utc":  "2026-11-01T00:40:58.0285856Z",
+    "payload_sha256":  "d51c1d6a3ce76965adf8790cc6cf2440823138d54439af2caeebe70ea98bd237",
+    "bundle_sha256":  "0dae267e0989fd01fbf073c7b7e6d765e32ce004b7af96c55867324a60f269e6",
+    "bytes":  43590464,
+    "cipher":  "AES-256-CBC (16-byte IV header)"
+}
