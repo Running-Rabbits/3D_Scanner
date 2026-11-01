@@ -1,0 +1,2 @@
+key sha256 fingerprint: 5f37542aa36eaac3fe9f46818dbcfaac760b0f90d6768328c9a5b375818edd21
+store this key outside the repo (password manager / usb).

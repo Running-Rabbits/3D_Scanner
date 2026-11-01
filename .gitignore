@@ -1,0 +1,8 @@
+# Backup artifacts (never commit these)
+backups/
+scripts/backup_key.bin
+scripts/*.tmp
+
+# Python / Blender
+__pycache__/
+*.pyc
